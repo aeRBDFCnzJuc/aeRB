@@ -1,4 +1,4 @@
-In this repo, we publish our code and datasets of experiments in the paper: A Neural Approach for Automatic Student Performance Judgment with Classroom Dialogue
+In this repo, we publish our code and datasets of experiments in the paper: "A Neural Approach for Automatic Student Performance Judgment with Classroom Dialogue"
 
 ## Create conda env  
 Use the following command to create a new conda enviroment.
